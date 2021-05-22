@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5dd1a173-96d2-40ba-8d17-149662171c94" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\Java\download\Maven\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../download/Maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="F:\Java\download\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1p1OzWhF6xzR6AMozIr8KCJHUL7" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="F:\Java\download\Idea\IDEA2019.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Java\workspace\BiShe\runde01\vue\edu-online-project\assets\photo\banner" />
+      <recent name="F:\Java\workspace\BiShe\runde01\vue\edu-online-project\assets\img" />
+      <recent name="F:\Java\workspace\BiShe\runde01\vue\edu-online-project\api" />
+      <recent name="F:\Java\workspace\BiShe\runde01\vue\edu-online-project\layouts" />
+      <recent name="F:\Java\workspace\BiShe\runde01\vue\edu-online-project\pages" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5dd1a173-96d2-40ba-8d17-149662171c94" name="Default Changelist" comment="" />
+      <created>1614347392859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614347392859</updated>
+      <workItem from="1614347393970" duration="715000" />
+      <workItem from="1614348149546" duration="188000" />
+      <workItem from="1614348390161" duration="22436000" />
+      <workItem from="1614594061208" duration="4561000" />
+      <workItem from="1614665661373" duration="1432000" />
+      <workItem from="1614676022882" duration="130000" />
+      <workItem from="1614685861471" duration="15330000" />
+      <workItem from="1614773825786" duration="7397000" />
+      <workItem from="1614857234932" duration="4893000" />
+      <workItem from="1614942000781" duration="24798000" />
+      <workItem from="1615365868816" duration="7300000" />
+      <workItem from="1615445043093" duration="935000" />
+      <workItem from="1615457074727" duration="5181000" />
+      <workItem from="1615516200018" duration="4622000" />
+      <workItem from="1615722913561" duration="6169000" />
+      <workItem from="1615789219102" duration="7837000" />
+      <workItem from="1615882090636" duration="4829000" />
+      <workItem from="1616051930673" duration="3781000" />
+      <workItem from="1617331939501" duration="4670000" />
+      <workItem from="1617448701858" duration="981000" />
+      <workItem from="1617449749518" duration="1451000" />
+      <workItem from="1617779759706" duration="2966000" />
+      <workItem from="1617959227574" duration="9894000" />
+      <workItem from="1618467810625" duration="2641000" />
+      <workItem from="1618576872380" duration="1239000" />
+      <workItem from="1618721379366" duration="7045000" />
+      <workItem from="1619522628807" duration="662000" />
+      <workItem from="1620308294509" duration="1219000" />
+      <workItem from="1620464737353" duration="760000" />
+      <workItem from="1620913871801" duration="2389000" />
+      <workItem from="1620950668118" duration="799000" />
+      <workItem from="1620981855773" duration="336000" />
+      <workItem from="1621051895738" duration="1286000" />
+      <workItem from="1621408519326" duration="1488000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/edu-online-project/pages/course/index.vue</url>
+          <line>111</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/edu-online-project/pages/course/_id.vue</url>
+          <line>117</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
